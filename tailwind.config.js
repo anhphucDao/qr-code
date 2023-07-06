@@ -8,6 +8,15 @@ module.exports = {
             },
 
             body: ['Outfit', 'sans-serif'],
+            margin: {
+                0: '0',
+            },
+            padding: {
+                0: '0',
+            },
+            height: {
+                screen: '100vh',
+            },
         },
     },
     plugins: [],
