@@ -1,6 +1,8 @@
 # QR Code Page
 
-https://qr-code-9e2a4.firebaseapp.com/
+live site url: https://qr-code-9e2a4.firebaseapp.com/
+
+
 ![Screen Shot 2023-07-06 at 14 22 23](https://github.com/anhphucDao/qr-code/assets/127674334/08d471d0-dabf-48c0-b4c2-29da2c079d01)
 
  
