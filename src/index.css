@@ -3,3 +3,18 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,300&family=Outfit:wght@300;400;500&display=swap');
+
+body,
+html {
+  height: 100vh;
+  marin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #d6e2f0;
+}
+
+#root {
+  height: 100vh;
+  marin: 0;
+  padding: 0;
+}
